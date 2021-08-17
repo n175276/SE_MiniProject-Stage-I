@@ -1,1 +1,2 @@
 this is simple txt file
+to understand git command
